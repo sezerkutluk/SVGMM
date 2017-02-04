@@ -6,7 +6,7 @@ images using spatially-varying Gaussian mixture model", Digital Signal
 Processing, vol. 59, pp. 106–114, 2016.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Copyright (c) 2016, Koray Kayabol, Sezer Kutluk      % 
-% <koray.kayabol@gtu.edu.tr>, <sezer.kutluk@gmail.com> %             
-% All rights reserved               		           %
+ Copyright (c) 2016, Koray Kayabol, Sezer Kutluk      
+ <koray.kayabol@gtu.edu.tr>, <sezer.kutluk@gmail.com>              
+ All rights reserved               		           
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
