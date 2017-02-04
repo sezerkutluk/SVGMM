@@ -1,5 +1,5 @@
 MATLAB demo of the spatially-varying Gaussian mixture model
-classification algorithmfor proposed in the floowing paper:
+classification algorithm for proposed in the floowing paper:
 
 K. Kayabol and S. Kutluk, "Bayesian classification of hyperspectral 
 images using spatially-varying Gaussian mixture model", Digital Signal 
