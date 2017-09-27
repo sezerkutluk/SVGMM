@@ -1,3 +1,5 @@
+THIS VERSION IS BUGGY. PLEASE CHECK THE OTHER REPO NAMED SVGMM-1.
+
 MATLAB demo of the spatially-varying Gaussian mixture model
 classification algorithm for proposed in the floowing paper:
 
